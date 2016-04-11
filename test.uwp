@@ -1,0 +1,7 @@
+TB_ENTITY = test_tb
+TB_ARCH = main
+TB_VHDL = test_tb.vhd
+
+DESIGN_ENTITY = max
+DESIGN_ARCH = main
+DESIGN_VHDL = test.vhd
